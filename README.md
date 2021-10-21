@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Taiwo Farinu
 
-###  I'm a Mobile developer (Native + Flutter).
+### A Mobile developer (Native + Flutter).
 
 ### Android / Flutter / Dart / Java / Kotin
 
