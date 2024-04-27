@@ -1,5 +1,5 @@
 ### Welcome 👋
-Taiwo Farinu is a dedicated software engineer who loves creating products that make users happy and keep them coming back for more. He's all about building things that people love and that also help businesses grow. With expertise in both web and mobile development, he's your go-to guy for turning ideas into successful products that gain global traction and drive revenue.
+Taiwo is a dedicated software engineer who loves creating products that make users happy and keep them coming back for more. He's all about building things that people love and that also help businesses grow. With expertise in both web and mobile development, he's your go-to guy for turning ideas into successful products that gain global traction and drive revenue.
 
 ### :hammer_and_wrench: Dart (Flutter), Android, Javascript (React, Node JS), Express JS, Typescript, SQL, MongoDB, MySQL
 <div class="">
