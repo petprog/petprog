@@ -17,6 +17,10 @@ Taiwo is a dedicated software engineer who loves creating products that make use
 
 <br/>
 
+## 📓Learning
+- Number Theory
+- Testing in Flutter
+
 ## Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width='30' height='30'>](https://twitter.com/taiwofarinu)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' width='30' height='30'>](https://stackoverflow.com/users/13462159/petprog)
